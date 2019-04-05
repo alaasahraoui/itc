@@ -1,0 +1,41 @@
+/* ---- reset ---- */ *{ margin:0;  padding:0; }
+ canvas{ display: block; vertical-align: bottom; }
+  #particles-js{  
+ width: 100% ;
+  height: 100vh;
+  background-color: #939393; 
+
+ /* background-image: url("https://scontent-mad1-1.xx.fbcdn.net/v/t1.15752-9/48396393_297725767535032_2865750772874739712_n.png?_nc_cat=110&_nc_ht=scontent-mad1-1.xx&oh=4a1848f6afb7e8ee0708466cc4c42cab&oe=5D4D916F ");*/
+  background-repeat: no-repeat;
+  background-size: 350px 350px;
+  background-position: top center; }
+ 
+ 
+.logo{    
+	    
+	font-size:  30px ; 
+	text-transform: uppercase;  
+
+    }
+    .welcome{  
+    	margin-left: 21%; 
+    	margin-top:   5%   ; 
+
+
+                      text-align:  center ; 
+    	            position: absolute; 
+    	              color :#fff  ;
+
+  
+     }
+     .cardd{   width: 250px  ; height: 250px ;        }
+     .carddd{   width: 50px  ; height: 50px ;        }
+
+     #logo_img{ 
+    
+                  position: absolute;    }
+
+                  .div2{ width: 100% ;
+  height: 100vh;
+  background-color: #939393; }
+ 
